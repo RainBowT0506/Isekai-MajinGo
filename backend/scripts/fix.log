@@ -1,0 +1,15 @@
+Found 13 items to fix...
+Processing: kanjidic2-en-3.6.2+20260504132921.json (scriptin/kanjidic2-en-3.6.2+20260504132921.json.zip)
+  -> Fixed! New count: 10384, Status: success
+Processing: MarvNC)-20260508T012345Z-3-001 (MarvNC/MarvNC)-20260508T012345Z-3-001.zip)
+Traceback (most recent call last):
+  File "/Users/linchengyi/PycharmProjects/Isekai-MajinGo/backend/scripts/fix_55.py", line 46, in <module>
+    fix_ignored_items()
+    ~~~~~~~~~~~~~~~~~^^
+  File "/Users/linchengyi/PycharmProjects/Isekai-MajinGo/backend/scripts/fix_55.py", line 35, in fix_ignored_items
+    count, preview = binder.bind_tome(full_path, dict_name, source_id, dummy_callback)
+                     ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/linchengyi/PycharmProjects/Isekai-MajinGo/backend/scripts/mana_library.py", line 125, in bind_tome
+    cursor.execute("DELETE FROM dictionary_terms WHERE source_id = ?", (source_id,))
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: database is locked

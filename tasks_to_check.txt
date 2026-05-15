@@ -1,0 +1,243 @@
+FooSoft/innocent_corpus.zip|292148
+FooSoft/kanjium_pitch_accents.zip|124137
+FooSoft/kireicake.zip|233398
+yomidevs/KANJIDIC_english.zip|384
+yomidevs/JMdict_english.zip|521828
+scriptin/jmdict-eng-3.6.2+20260504132921.json.zip|216789
+scriptin/jmnedict-all-3.6.2+20260504132921.json.zip|743338
+scriptin/jmdict-examples-eng-3.6.2+20260504132921.json.zip|216789
+MarvNC/新明解国語辞典　第八版.zip|100593
+MarvNC/[Other] 複合語起源.zip|222
+MarvNC/大辞林　第四版　画像無し.zip|334751
+MarvNC/[Hanzi] Wiktionary.zip|641
+MarvNC/大辞林　第四版.zip|334751
+MarvNC/新語時事用語辞典.zip|18294
+MarvNC/漢字ペディア同訓異義.zip|966
+MarvNC/[Freq] Aozora Bunko.zip|169623
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Japanese Dictionaries Starter Pack/08 [JA-JA] 大辞泉 第二版[2025-04-29].zip|636276
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Cantonese/[Honzi] Words.hk.Honzi.2026-05-06.zip|778
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Japanese Dictionaries Starter Pack/12 [Kanji] JPDB Kanji.zip|494
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Japanese Dictionaries Starter Pack/04 [JA-EN Grammar] dojg-consolidated-v1_01.zip|535
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Mandarin/[LZH-EN] Vogelsang_s Dictionary.zip|1774
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Japanese Dictionaries Starter Pack/11 [Kanji] KANJIDIC_english (2026-05-03).zip|384
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Mandarin/[LZH Freq] Classical Chinese Frequency Dictionary.zip|13673
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Mandarin/[LZH-ZH Hanzi] 廣韻.zip|333
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Cantonese/[YUE-EN] Cantodict.zip|86570
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Cantonese/[YUE-EN] CE Wiktionary.zip|142685
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Japanese Dictionaries Starter Pack/15 [JA Freq] Freq_CC100.zip|160836
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Japanese Dictionaries Starter Pack/14 [JA Freq] jiten_freq_global (2026-05-06).zip|544360
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Mandarin/[LZH-ZH Hanzi] 古漢語常用字字典第四版.zip|7239
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Mandarin/[ZH-EN] Tuttle Learner_s Chinese-English Dictionary.zip|3643
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Japanese Dictionaries Starter Pack/13 [JA Freq] JPDB_v2.2_Frequency_Kana_2024-10-13.zip|338814
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Cantonese/[YUE Freq] Words.hk Frequency.zip|41174
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Cantonese/[YUE-EN] Canto CEDICT.zip|105347
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Mandarin/[LZH-EN] Kroll’s Student’s Dictionary of Classical Medieval Chinese.zip|9762
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Mandarin/[ZH-EN] DrEye 譯典通英漢雙向字典.zip|30973
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Mandarin/[ZH-EN] 500idioms.zip|869
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Mandarin/[ZH Freq] Sinica.zip|11549
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Japanese Dictionaries Starter Pack/16 [JA Freq] BCCWJ_SUW_LUW_combined.zip|1000219
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Cantonese/[Yue Freq] Cifu Spoken.zip|51798
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Mandarin/[Hanzi] EDHCC.zip|371
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Mandarin/[ZH-ZH] 國語辭典簡編本.zip|71791
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Mandarin/[ZH-EN] Oxford 牛津英汉汉英词典.zip|74663
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Cantonese/[Yue Freq] Cifu Written.zip|51798
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Mandarin/[ZH-ZH Encyclopedia] ZH Wikipedia (v1.1).zip|1249877
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Mandarin/[ZH-EN] 譯典通英漢雙向字典.zip|30973
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Japanese Dictionaries Starter Pack/17 [Pitch] NHK2016.zip|73100
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Mandarin/[ZH Freq] SUBTLEX-CH.zip|62096
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Mandarin/[ZH-ZH] XiandaiGuifan 3 现代汉语规范词典.zip|72841
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Mandarin/[ZH Freq] BLCUcoll.zip|91797
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Mandarin/[ZH-EN] 牛津英汉汉英词典.zip|74663
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Japanese Dictionaries Starter Pack/18 [Pitch] 大辞泉.zip|88089
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Mandarin/[ZH Freq] HSK.zip|11107
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Mandarin/[ZH Freq] BLCUnews.zip|91690
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Mandarin/[ZH Freq] BLCUlit.zip|90580
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Mandarin/[ZH-ZH] Wunan 五南国语活用辞典.zip|59935
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Mandarin/[ZH Freq] BLCUsci.zip|92779
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Mandarin/[ZH-JA] 白水社 中国語辞典.zip|63858
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Mandarin/[ZH-ZH Hanzi] 康熙字典.zip|46836
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Mandarin/[ZH Freq] BLCUmixed.zip|98089
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Mandarin/[ZH-EN] WenlinABC.zip|207289
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Cantonese/[YUE-EN] CC-Canto (2026-05-07).zip|52447
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[Kanji] KANJIDIC_english (2026-05-06).zip|384
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-EN] Living_Japanese_Slang_Dictionary_Scripting_Japan.zip|636
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Mandarin/[ZH-ZH] 辭源.zip|91538
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA Freq] JPDB_v2.2_Frequency_Kana_2024-10-13.zip|338814
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-JA] 明鏡国語辞典 第三版[2025-08-18].zip|108389
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-JA Grammar] 日本語NET(nihongo_kyoushi)_v1_03.zip|628
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Mandarin/[ZH-ZH] 兩岸詞典.zip|163091
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-EN Grammar] どんなときどう使う 日本語表現文型辞典_1_05.zip|1082
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-EN Grammar] dojg-consolidated-v1_01.zip|535
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA Freq] jiten_freq_global (2026-05-07).zip|544360
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-JA Onomatopoeia] 擬音語・擬態語辞典.zip|1967
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Cantonese/[YUE-EN & YUE] Words.hk.2026-05-06.zip|60790
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Japanese Dictionaries Starter Pack/02 [JA-EN] 新和英.zip|152202
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Japanese Dictionaries Starter Pack/09 [JA-JA] 実用日本語表現辞典.zip|55379
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-EN Grammar] Bunpro.zip|913
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-JA Nouns] JA Wikipedia Proper Nouns.zip|10036
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[Pitch] NHK日本語発音アクセント新辞典.zip|75992
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-JA] 大辞泉 第二版[2025-04-29].zip|636276
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Mandarin/[Hanzi] Wiktionary.zip|641
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-JA Slang] ネット用語辞典「ネット王子」.zip|5792
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-JA Kogo] 三省堂 全訳読解古語辞典[2025-04-29].zip|76775
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Mandarin/[ZH-JA] 中日大辞典　第二版.zip|146381
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Mandarin/[ZH-EN] oxford-zh-en.zip|78677
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Mandarin/Simplified Conversions/[ZH-ZH] CrossStraits.zip|163091
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Mandarin/[ZH-ZH] 漢語大詞典.zip|550544
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Mandarin/[Hanzi] CC-CEDICT.Hanzi (2026-05-07).zip|629
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-JA Sentences] 用例.jp.zip|20932
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-JA] KO字源.zip|73403
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Japanese Dictionaries Starter Pack/05 [JA-JA Thesaurus] 使い方の分かる 類語例解辞典 [2024-05-02].zip|17350
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-JA] 絵でわかる慣用句 [2024-06-30].zip|882
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-JA Psychology] 有斐閣現代心理学辞典[2025-04-29].zip|10223
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Mandarin/[ZH-ZH] 现代汉语词典（第七版）.zip|77131
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-JA Law] 有斐閣 法律用語辞典[2025-04-22].zip|14711
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Cantonese/[YUE-EN] CC-CEDICT.Canto (2026-05-07).zip|167828
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-JA Antonyms] 対義語辞典オンライン [2024-04-30].zip|13965
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-JA Counters] 数え方辞典オンライン (2024-02-13).zip|1312
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-JA Kanji] TISMKANJI[2025-04-24].zip|46211
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-JA] 福日木健二字熟語.zip|2306
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-JA Yoji] YOJI-JUKUGO.zip|4017
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-JA Grammar] nihongo_no_sensei_1_04.zip|1479
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-JA Onomatopoeia] surasura.zip|1422
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-JA Origins] 複合語起源.zip|222
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[Kanji] mozc Kanji Variants.zip|317
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-001.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[Kanji] jitai.zip|174
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-003.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/other/素材辞典.zip|11309
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-003.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/other/TMW Club v2 [2024-05-12].zip|1924
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-003.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-JA] 精選版 日本国語大辞典.zip|286365
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-003.zip/Yomitan Dictionaries (github-MarvNC)/Mandarin/Simplified Conversions/[ZH-ZH] DaCidian 汉语大词典.zip|550544
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-003.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-JA] 旺文社国語辞典 第十二版[2025-04-29].zip|139385
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-003.zip/Yomitan Dictionaries (github-MarvNC)/Japanese Dictionaries Starter Pack/03 [JA-JA Names] JMnedict (2026-05-06).zip|667492
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-003.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-JA Names] JMnedict (2026-05-06).zip|667492
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-003.zip/Yomitan Dictionaries (github-MarvNC)/Japanese Dictionaries Starter Pack/10 [JA-JA Encyclopedia] PixivLight_2026-05-06.zip|710819
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-003.zip/Yomitan Dictionaries (github-MarvNC)/Japanese Dictionaries Starter Pack/01 [JA-EN] jitendex-yomitan (2026-05-05).zip|430822
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-003.zip/Yomitan Dictionaries (github-MarvNC)/Japanese Dictionaries Starter Pack/06 [JA-JA] 漢検漢字辞典　第二版.zip|51590
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-003.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-EN] jitendex-yomitan (2026-05-05).zip|430822
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-003.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-JA Encyclopedia] PixivLight_2026-05-07.zip|710819
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-003.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-JA Kanji] 旺文社漢字典 第四版[2025-08-18].zip|111853
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-003.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-JA] 大辞林　第四版.zip|334751
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-003.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-JA] 新明解国語辞典　第八版.zip|102136
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-003.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-JA] 字通［普及版］.zip|131794
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-003.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-JA] 新選国語辞典　第十版.zip|118331
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-003.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-JA] 漢検漢字辞典　第二版.zip|51590
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-003.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-EN] NEW 斎藤和英大辞典.zip|47504
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-003.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-JA] 岩波国語辞典　第八版.zip|76625
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-003.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-JA] 三省堂国語辞典　第八版.zip|93091
+MarvNC/Living_Japanese_Slang_Dictionary_Scripting_Japan.zip|636
+MarvNC/三省堂国語辞典　第八版.zip|93091
+MarvNC/[Monolingual] surasura.zip|1422
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-002.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-EN] Babylon_Japanese_English.v1.0.0.zip|212882
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-002.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-JA Encyclopedia] きっずジャポニカ 新版.zip|15371
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-002.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA Freq] BCCWJ_SUW_LUW_combined.zip|1000219
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-002.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-JA Medical] 南山堂医学大辞典 第20版[2025-04-29].zip|39087
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-002.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-EN Onomatopoeia] Onomatoproject.zip|266
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-002.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-JA Grammar] [画像付き] 絵でわかる日本語 v3.zip|1397
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-002.zip/Yomitan Dictionaries (github-MarvNC)/Mandarin/[ZH-EN] CC-CEDICT.Canto (2026-05-07).zip|167828
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-002.zip/Yomitan Dictionaries (github-MarvNC)/Mandarin/[ZH-ZH] MoeDict 萌典国语辞典 (简体字).zip|266956
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-002.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-JA Kanji] 漢字林.zip|46210
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-002.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-JA] 全訳漢辞海.zip|60839
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-002.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA Freq] Wikipedia v2.zip|853593
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-002.zip/Yomitan Dictionaries (github-MarvNC)/Japanese Dictionaries Starter Pack/07 [JA-JA] 小学館例解学習国語 第十二版[2025-08-18].zip|48523
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-002.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-JA] 漢字でGO!.zip|8027
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-002.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[Kanji] 漢字辞典オンライン.zip|693
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-002.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[Pitch] 三省堂第八版.zip|77630
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-002.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[Pitch] 新明解第八版.zip|75978
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-002.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-JA Dialect] 全国方言辞典.zip|3738
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-002.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA Freq] YoutubeFreqV3.zip|187053
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-002.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-JA] 新語時事用語辞典.zip|18294
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-002.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-JA Thesaurus] 類語辞典オンライン (2024-02-09).zip|12151
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-002.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-JA Expressions] 故事・ことわざ・慣用句オンライン.zip|8513
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-002.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-JA] 小学館例解学習国語 第十二版[2025-08-18].zip|48523
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-002.zip/Yomitan Dictionaries (github-MarvNC)/Mandarin/[ZH-JA] 小学館中日辞典 第3版[2025-05-03][pinyin].zip|150390
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-002.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-JA Yoji] 四字熟語辞典オンライン.zip|7782
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-002.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-JA Thesaurus] 使い方の分かる 類語例解辞典 [2024-05-02].zip|17350
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-002.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[Kanji] Wiktionary.zip|122
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-002.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-JA] 実用日本語表現辞典.zip|55379
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-002.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-JA Origins] 語源由来辞典.zip|2795
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-002.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[Kanji Frequency] Wikipedia.zip|20932
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-002.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[Kanji] JPDB Kanji.zip|494
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-002.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA Freq] Freq_CC100.zip|160836
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-002.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[Kanji Frequency] JPDB Kanji.zip|6494
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-002.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[Kanji Frequency] Innocent Corpus Kanji.zip|6430
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-002.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-JA Kogo] 旺文社 全訳古語辞典[2025-04-29].zip|79435
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-002.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[Pitch] 大辞泉.zip|88089
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-002.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[Kanji Frequency] Aozora Bunko.zip|8488
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-002.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA Freq] Aozora Bunko.zip|169623
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-002.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-JA Kanji] 角川新字源 改訂新版[2025-04-29].zip|83542
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-002.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-JA] 語彙力・二字熟語の百科事典.zip|5120
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-002.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-JA] 日本語俗語辞書.zip|4354
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-002.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-JA Kogo] weblio_kogo_expanded_with_conjugation.zip|47958
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-002.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-EN] 新和英.zip|152202
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-002.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-JA Yoji] 新明解四字熟語辞典.zip|4194
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-002.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-JA Yoji] 学研 四字熟語辞典.zip|5484
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-002.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA Freq] Novels.zip|269987
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-002.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[Pitch] NHK2016.zip|73100
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-002.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/other/形容詞・動詞のイラスト素材辞典.zip|3262
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-002.zip/Yomitan Dictionaries (github-MarvNC)/Mandarin/Outdated/[ZH-ZH] 萌典.pinyin.zip|164269
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-002.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-JA Expressions] 故事ことわざの辞典.zip|15577
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-002.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-JA] 漢字源.zip|48085
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-002.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-JA] 現代国語例解辞典　第五版.zip|86213
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-002.zip/Yomitan Dictionaries (github-MarvNC)/Mandarin/Outdated/[ZH-ZH] 五南國語活用辭典.zip|59935
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-002.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/other/[JA Grammar] edewakaru_v_1_03.zip|1248
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-002.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA Freq] InnocentRanked.zip|280000
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-002.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[Pitch] 大辞林第四版.zip|152193
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-002.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-JA Yoji] 四字熟語の百科事典 [2024-06-30].zip|5451
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-002.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/other/ポケモン図鑑.zip|1252
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-002.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-JA] 国語辞典オンライン.zip|44970
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-002.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/other/全市区町村辞典 [2024-04-30].zip|2307
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-002.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-JA] ことわざ・慣用句の百科事典.zip|7135
+temp_decipher/MarvNC_JP Ressources-20260508T015850Z-3-001.zip/JP Ressources/【資料】 百科辞典/[JA Pictures] 熟語図鑑 (Under Construction).zip|3545
+temp_decipher/MarvNC_JP Ressources-20260508T015850Z-3-001.zip/JP Ressources/【資料】 百科辞典/[JA-JA] コトバの意味辞典.zip|5354
+temp_decipher/MarvNC_JP Ressources-20260508T015850Z-3-001.zip/JP Ressources/【資料】 百科辞典/[JA Pictures] 形容詞・動詞図鑑 (Under Construction).zip|3262
+temp_decipher/MarvNC_JP Ressources-20260508T015850Z-3-001.zip/JP Ressources/【資料】 百科辞典/[JA-JA] きっずジャポニカ 新版.zip|15371
+temp_decipher/MarvNC_JP Ressources-20260508T015850Z-3-001.zip/JP Ressources/【資料】 百科辞典/[JA Pictures] 全市区町村辞典.zip|2307
+temp_decipher/MarvNC_JP Ressources-20260508T015850Z-3-001.zip/JP Ressources/【資料】 百科辞典/[FR-JA] ポケットプログレッシブ仏和・和仏辞典 第3版.zip|63001
+temp_decipher/MarvNC_JP Ressources-20260508T015850Z-3-001.zip/JP Ressources/【資料】 百科辞典/[JA-JA Yoji] 四字熟語の百科事典_red.zip|5455
+temp_decipher/MarvNC_JP Ressources-20260508T015850Z-3-001.zip/JP Ressources/【資料】 百科辞典/[JA-JA Onomatopoeia] OnoMangaStrip.zip|4487
+MarvNC/全国方言辞典.zip|3738
+temp_decipher/MarvNC_JP Ressources-20260508T015850Z-3-002.zip/JP Ressources/【資料】 百科辞典/[JA-JA] gimon-sukkiri.jp (v1).zip|4024
+temp_decipher/MarvNC_JP Ressources-20260508T015850Z-3-002.zip/JP Ressources/【資料】 百科辞典/[JA-JA] ことわざ・慣用句の百科事典_red.zip|7136
+temp_decipher/MarvNC_JP Ressources-20260508T015850Z-3-002.zip/JP Ressources/【資料】 百科辞典/[JA-JA Grammar] [画像付き] 絵でわかる日本語.zip|1390
+temp_decipher/MarvNC_JP Ressources-20260508T015850Z-3-002.zip/JP Ressources/【資料】 自動辞書/Monolingual Coverage/[JA-JA] 明鏡国語辞典　第二版.zip|73068
+temp_decipher/MarvNC_JP Ressources-20260508T015850Z-3-002.zip/JP Ressources/【資料】 百科辞典/[JA Pictures] TMW Club v2.zip|1924
+temp_decipher/MarvNC_JP Ressources-20260508T015850Z-3-002.zip/JP Ressources/【資料】 百科辞典/[JA-JA Kanji] TENKANJI.zip|3463
+temp_decipher/MarvNC_JP Ressources-20260508T015850Z-3-002.zip/JP Ressources/【資料】 百科辞典/[JA-JA] 違い・語源辞典オンライン.zip|4186
+temp_decipher/MarvNC_JP Ressources-20260508T015850Z-3-002.zip/JP Ressources/【資料】 自動辞書/Bilingual Coverage/[JA-FR] 和仏辞典オフライン.zip|267592
+temp_decipher/MarvNC_JP Ressources-20260508T015850Z-3-002.zip/JP Ressources/【資料】 百科辞典/[JA Pictures] ウェブ検索_Light.zip|266595
+temp_decipher/MarvNC_JP Ressources-20260508T015850Z-3-002.zip/JP Ressources/【資料】 自動辞書/Monolingual Coverage/[JA-JA] デジタル大辞泉 画像なし.zip|527290
+temp_decipher/MarvNC_JP Ressources-20260508T015850Z-3-002.zip/JP Ressources/【資料】 自動辞書/Monolingual Coverage/[JA-JA Encyclopedia] ja.Wikipedia.2022-12-01.v1.6.1.zip|1279999
+temp_decipher/MarvNC_JP Ressources-20260508T015850Z-3-002.zip/JP Ressources/【資料】 自動辞書/Monolingual Coverage/[JA-JA Encyclopedia] PixivLight_2026-04-06.zip|710819
+temp_decipher/MarvNC_JP Ressources-20260508T015850Z-3-003.zip/JP Ressources/【資料】 百科辞典/[JA-JA] 絵でわかる慣用句_red [2026-02-03].zip|1093
+temp_decipher/MarvNC_JP Ressources-20260508T015850Z-3-003.zip/JP Ressources/【資料】 百科辞典/[JA-JA] 語彙力・熟語の百科事典_red.zip|11909
+temp_decipher/MarvNC_JP Ressources-20260508T015850Z-3-003.zip/JP Ressources/【資料】 百科辞典/[JA-JA Dialect] Weblio大阪弁.zip|2388
+temp_decipher/MarvNC_JP Ressources-20260508T015850Z-3-003.zip/JP Ressources/【資料】 百科辞典/[JA-JA] IMIDASの日本語辞典.zip|6591
+temp_decipher/MarvNC_JP Ressources-20260508T015850Z-3-003.zip/JP Ressources/【資料】 百科辞典/[JA-JA Yoji] 福島みんなの四字熟語・故事成語.zip|5142
+temp_decipher/MarvNC_JP Ressources-20260508T015850Z-3-003.zip/JP Ressources/【資料】 百科辞典/[JA-JA Yoji] 四字熟語データバンク.zip|3442
+temp_decipher/MarvNC_JP Ressources-20260508T015850Z-3-003.zip/JP Ressources/【資料】 自動辞書/Monolingual Coverage/[JA-JA Origins] 複合語起源.zip|222
+temp_decipher/MarvNC_JP Ressources-20260508T015850Z-3-003.zip/JP Ressources/【資料】 百科辞典/[JA-JA Slang] ネット用語辞典「ネット王子」.zip|6049
+temp_decipher/MarvNC_JP Ressources-20260508T015850Z-3-003.zip/JP Ressources/【資料】 自動辞書/Monolingual Coverage/[JA-JA Slang] ネット用語辞典「ネット王子」.zip|6049
+temp_decipher/MarvNC_JP Ressources-20260508T015850Z-3-003.zip/JP Ressources/【資料】 自動辞書/Monolingual Coverage/[JA-JA Onomatopoeia] 擬音語・擬態語辞典.zip|1967
+temp_decipher/MarvNC_JP Ressources-20260508T015850Z-3-003.zip/JP Ressources/【資料】 自動辞書/Monolingual Coverage/[JA-JA Expressions] ことわざ・慣用句の百科事典.zip|7136
+temp_decipher/MarvNC_JP Ressources-20260508T015850Z-3-003.zip/JP Ressources/【資料】 自動辞書/Monolingual Coverage/[JA-JA Yoji] 四字熟語の百科事典.zip|5455
+temp_decipher/MarvNC_JP Ressources-20260508T015850Z-3-003.zip/JP Ressources/【資料】 自動辞書/Monolingual Coverage/[JA-JA Expressions] 故事・ことわざ・慣用句オンライン.zip|8513
+temp_decipher/MarvNC_JP Ressources-20260508T015850Z-3-003.zip/JP Ressources/【資料】 自動辞書/Monolingual Coverage/[JA-JA Yoji] 四字熟語辞典オンライン.zip|7782
+temp_decipher/MarvNC_JP Ressources-20260508T015850Z-3-003.zip/JP Ressources/【資料】 自動辞書/Monolingual Coverage/[JA-JA] 語彙力・熟語の百科事典.zip|11909
+temp_decipher/MarvNC_JP Ressources-20260508T015850Z-3-003.zip/JP Ressources/【資料】 百科辞典/[JA-JA Sentences] 用例.jp.zip|20932
+temp_decipher/MarvNC_JP Ressources-20260508T015850Z-3-003.zip/JP Ressources/【資料】 自動辞書/Monolingual Coverage/[JA-JA] 現代新国語辞典 第七版.zip|82756
+temp_decipher/MarvNC_JP Ressources-20260508T015850Z-3-003.zip/JP Ressources/【資料】 百科辞典/[JA Pictures] ポケモン図鑑.zip|1252
+temp_decipher/MarvNC_JP Ressources-20260508T015850Z-3-003.zip/JP Ressources/【資料】 自動辞書/Monolingual Coverage/[JA-JA Thesaurus] 使い方の分かる 類語例解辞典.zip|17350
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-004.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-JA Encyclopedia] JA Wikipedia [2022-12-01] (v1.4.0).zip|1279999
+temp_decipher/MarvNC_MarvNC)-20260508T012345Z-3-004.zip/Yomitan Dictionaries (github-MarvNC)/Japanese/[JA-JA] 広辞苑 第七版.zip|257602
+MarvNC/1nip86.zip|206621
+temp_decipher/MarvNC_辭典-20260508T020417Z-3-001.zip/辭典/五南國語活用辭典.zip|59935
+temp_decipher/MarvNC_辭典-20260508T020417Z-3-001.zip/辭典/萌典.pinyin.zip|164269
+temp_decipher/MarvNC_辭典-20260508T020417Z-3-001.zip/辭典/五南國語活用辭典.bopomofo.zip|60066
+temp_decipher/MarvNC_辭典-20260508T020417Z-3-001.zip/辭典/萌典.zip|164269
+temp_decipher/MarvNC_辭典-20260508T020417Z-3-001.zip/辭典/譯典通英漢雙向字典.zip|30973
+temp_decipher/MarvNC_辭典-20260508T020417Z-3-001.zip/辭典/五南國語活用辭典.pinyin.zip|59935
+temp_decipher/MarvNC_辭典-20260508T020417Z-3-001.zip/辭典/现代汉语规范词典.zip|72841
+temp_decipher/MarvNC_辭典-20260508T020417Z-3-001.zip/辭典/牛津英汉汉英词典.zip|74663
+MarvNC/CC-CEDICT.zip|202711
+MarvNC/pnobup.zip|51590
+MarvNC/実用日本語表現辞典.zip|55379
