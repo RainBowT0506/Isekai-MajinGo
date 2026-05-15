@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Isekai MajinGo - 單字庫</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Noto+Sans+TC:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <style>
+        .tabs {
+            display: flex;
+            gap: 1rem;
+            margin-bottom: 1.5rem;
+            justify-content: center;
+        }
+        .tab-btn {
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid var(--glass-border);
+            color: var(--text-muted);
+            padding: 0.75rem 1.5rem;
+            border-radius: 8px;
+            font-size: 1rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+        .tab-btn:hover {
+            background: rgba(255, 255, 255, 0.1);
+        }
+        .tab-btn.active {
+            background: linear-gradient(135deg, rgba(139, 92, 246, 0.2), rgba(236, 72, 153, 0.2));
+            color: white;
+            border-color: var(--primary-color);
+            box-shadow: 0 0 15px var(--primary-glow);
+        }
+        .vocab-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 1.25rem;
+        }
+        .vocab-card {
+            display: flex;
+            flex-direction: column;
+            gap: 0.75rem;
+            padding: 1.25rem;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            animation: fadeIn 0.4s ease-out backwards;
+        }
+        .vocab-card:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 5px 20px rgba(139, 92, 246, 0.15);
+            border-color: rgba(139, 92, 246, 0.4);
+        }
+        .vocab-word {
+            font-size: 1.4rem;
+            font-weight: 700;
+            color: var(--primary-color);
+            text-shadow: 0 0 10px rgba(139, 92, 246, 0.2);
+            word-break: break-all;
+        }
+        .vocab-context {
+            font-size: 0.95rem;
+            color: var(--text-main);
+            line-height: 1.5;
+            background: rgba(0,0,0,0.25);
+            padding: 0.75rem;
+            border-radius: 8px;
+            border-left: 3px solid var(--secondary-color);
+        }
+        .vocab-meta {
+            font-size: 0.8rem;
+            color: var(--text-muted);
+            display: flex;
+            justify-content: space-between;
+            margin-top: auto;
+            padding-top: 0.5rem;
+            border-top: 1px dashed rgba(255,255,255,0.1);
+        }
+        .nav-links {
+            text-align: center;
+            margin-top: 2.5rem;
+        }
+        .back-link {
+            color: var(--primary-color);
+            text-decoration: none;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+        .back-link:hover {
+            color: #a78bfa;
+            text-shadow: 0 0 10px var(--primary-glow);
+            transform: translateX(-3px);
+        }
+    </style>
+</head>
+<body>
+    <div class="particle-bg" id="particles"></div>
+    <div class="container" style="max-width: 1000px;">
+        <header class="header">
+            <h1 class="glow-text">📖 魔法單字庫</h1>
+            <p class="subtitle">檢視你收集與忽略的詠唱詞彙</p>
+        </header>
+
+        <div class="tabs">
+            <button class="tab-btn active" data-tab="saved">✨ 儲存的單字 (<span id="count-saved">0</span>)</button>
+            <button class="tab-btn" data-tab="ignored">❌ 忽略的單字 (<span id="count-ignored">0</span>)</button>
+        </div>
+
+        <div class="results-layout" id="vocab-container">
+            <div id="loading" class="hidden">
+                <div class="spinner"></div>
+                <p>正在載入記憶體...</p>
+            </div>
+            <div id="error-msg" class="hidden error"></div>
+            
+            <div id="tab-saved" class="vocab-grid"></div>
+            <div id="tab-ignored" class="vocab-grid hidden"></div>
+        </div>
+
+        <div class="nav-links">
+            <a href="index.html" class="back-link">← 返回詠唱解析</a>
+        </div>
+    </div>
+    <script src="vocabulary.js"></script>
+</body>
+</html>

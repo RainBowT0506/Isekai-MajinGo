@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Isekai MajinGo - 魔法詠唱解析</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Noto+Sans+TC:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="particle-bg" id="particles"></div>
+    <div class="container">
+        <header class="header" style="position: relative;">
+            <div style="position: absolute; right: 0; top: 0;">
+                <a href="vocabulary.html" class="magic-btn" style="text-decoration: none; display: inline-block; padding: 0.5rem 1rem; font-size: 0.9rem;">📖 單字庫</a>
+            </div>
+            <h1 class="glow-text">✨ Isekai MajinGo</h1>
+            <p class="subtitle">真實在語境中轉生，解析 YouTube 魔法詠唱</p>
+        </header>
+
+        <div class="input-section glass-panel">
+            <input type="text" id="youtube-url" placeholder="輸入 YouTube 或魔法水晶連結..." />
+            <button id="extract-btn" class="magic-btn">詠唱解析</button>
+        </div>
+
+        <div id="loading" class="hidden">
+            <div class="spinner"></div>
+            <p>正在從異世界中提取文字...</p>
+        </div>
+
+        <div id="error-msg" class="hidden error"></div>
+
+        <div class="results-layout hidden" id="results-container">
+            <div class="stats-panel glass-panel">
+                <span id="video-id-display"></span>
+                <span class="badge" id="lines-count-display"></span>
+            </div>
+            <div class="subs-container" id="subs-list">
+                <!-- Subtitle cards will be injected here -->
+            </div>
+        </div>
+
+        <!-- Floating Action Menu -->
+        <div id="selection-menu" class="floating-menu hidden glass-panel">
+            <button id="btn-save-vocab" class="menu-btn save-btn">儲存</button>
+            <button id="btn-ignore-vocab" class="menu-btn ignore-btn">忽略</button>
+        </div>
+
+        <!-- Toast Notification -->
+        <div id="toast-notification" class="toast hidden">
+            單字已儲存 ✨
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
