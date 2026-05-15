@@ -155,10 +155,11 @@
   font-weight: 600;
 }
 
-.status-badge.success { background: rgba(76, 175, 80, 0.1); color: #81c784; }
+.status-badge.success { background: rgba(52, 211, 153, 0.1); color: #34d399; }
 .status-badge.deciphering, .status-badge.binding { background: rgba(33, 150, 243, 0.1); color: #64b5f6; animation: pulse 2s infinite; }
-.status-badge.failed { background: rgba(244, 67, 54, 0.1); color: #e57373; }
-.status-badge.queued { background: rgba(255, 255, 255, 0.05); color: #888; }
+.status-badge.failed { background: rgba(248, 113, 113, 0.1); color: #f87171; }
+.status-badge.pending { background: rgba(251, 191, 36, 0.1); color: #fbbf24; }
+.status-badge.container { background: rgba(156, 163, 175, 0.1); color: #9ca3af; border: 1px dashed #4b5563; }
 
 .retry-btn {
   background: rgba(229, 115, 115, 0.1);

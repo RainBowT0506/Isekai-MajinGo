@@ -92,6 +92,23 @@ class SoulBinder:
         conn.close()
 
     def bind_tome(self, dict_path, dict_name, source_id, update_callback, conn=None):
+        import zipfile
+        import shutil
+        import tempfile
+        
+        is_temp = False
+        actual_path = dict_path
+        
+        if os.path.isfile(dict_path) and dict_path.endswith('.zip'):
+            is_temp = True
+            actual_path = tempfile.mkdtemp()
+            with zipfile.ZipFile(dict_path, 'r') as zip_ref:
+                zip_ref.extractall(actual_path)
+            # 有時候 zip 裡面還有一層資料夾
+            inner_files = os.listdir(actual_path)
+            if len(inner_files) == 1 and os.path.isdir(os.path.join(actual_path, inner_files[0])):
+                actual_path = os.path.join(actual_path, inner_files[0])
+
         if conn is None:
             conn = sqlite3.connect(self.db_path, timeout=60)
             should_close = True
@@ -99,7 +116,7 @@ class SoulBinder:
             should_close = False
         cursor = conn.cursor()
         
-        files = os.listdir(dict_path)
+        files = os.listdir(actual_path)
         term_banks = [f for f in files if f.startswith("term_bank")]
         kanji_banks = [f for f in files if f.startswith("kanji_bank")]
         freq_banks = [f for f in files if f.startswith("frequency_bank")]
@@ -149,6 +166,8 @@ class SoulBinder:
                     if len(preview_data) < 10: preview_data.append({"type":"kanji", "word":kanji, "def": str(meaning)[:50]})
                     if len(batch) >= 1000:
                         cursor.executemany("INSERT INTO dictionary_kanji (kanji, reading, details, dict_name, source_id) VALUES (?,?,?,?,?)", batch)
+                        total_entries += 1000
+                        update_callback(total_entries)
                         batch = []
                 if batch: 
                     cursor.executemany("INSERT INTO dictionary_kanji (kanji, reading, details, dict_name, source_id) VALUES (?,?,?,?,?)", batch)
@@ -165,13 +184,15 @@ class SoulBinder:
                     batch.append((word, rank, dict_name, source_id))
                     if len(batch) >= 1000:
                         cursor.executemany("INSERT INTO dictionary_frequency (word, rank, dict_name, source_id) VALUES (?,?,?,?)", batch)
+                        total_entries += 1000
+                        update_callback(total_entries)
                         batch = []
                 if batch: 
                     cursor.executemany("INSERT INTO dictionary_frequency (word, rank, dict_name, source_id) VALUES (?,?,?,?)", batch)
                     total_entries += len(batch)
                     update_callback(total_entries)
 
-        # 處理 Meta Banks (頻率字典與重音字典的存放處)
+        # 處理 Meta Banks
         meta_banks = [f for f in files if f.startswith("term_meta_bank") or f.startswith("kanji_meta_bank")]
         for mb in meta_banks:
             try:
@@ -181,19 +202,58 @@ class SoulBinder:
                     update_callback(total_entries)
             except: pass
 
-        # 處理未遵循 Yomitan 結構的原始 JSON 檔 (例如 JMDict 原始檔)
+        # 處理未遵循 Yomitan 結構的原始 JSON 檔 (例如 Scriptin 原始檔)
         if not any([term_banks, kanji_banks, freq_banks, meta_banks]):
             for f_name in files:
                 if f_name.endswith('.json') and f_name != 'index.json':
                     try:
-                        with open(os.path.join(dict_path, f_name), 'r', encoding='utf-8') as f:
+                        with open(os.path.join(actual_path, f_name), 'r', encoding='utf-8') as f:
                             data = json.load(f)
                             if isinstance(data, dict):
+                                # 1. 處理 Scriptin JMDict 格式
                                 if "words" in data:
-                                    total_entries += len(data["words"])
-                                elif "kanji" in data:
-                                    total_entries += len(data["kanji"])
-                    except: pass
+                                    batch = []
+                                    for item in data["words"]:
+                                        word = item["kanji"][0]["text"] if item["kanji"] else item["kana"][0]["text"]
+                                        reading = item["kana"][0]["text"] if item["kana"] else ""
+                                        details = json.dumps({"sense": item["sense"]}, ensure_ascii=False)
+                                        batch.append((word, reading, details, dict_name, source_id))
+                                        if len(preview_data) < 5:
+                                            preview_data.append({"type":"term", "word":word, "def": str(item["sense"])[:50]})
+                                        if len(batch) >= 1000:
+                                            cursor.executemany("INSERT INTO dictionary_terms (word, reading, details, dict_name, source_id) VALUES (?,?,?,?,?)", batch)
+                                            total_entries += len(batch)
+                                            update_callback(total_entries)
+                                            batch = []
+                                    if batch:
+                                        cursor.executemany("INSERT INTO dictionary_terms (word, reading, details, dict_name, source_id) VALUES (?,?,?,?,?)", batch)
+                                        total_entries += len(batch)
+                                        update_callback(total_entries)
+                                
+                                # 2. 處理 Scriptin Kanjidic2 格式
+                                elif "characters" in data:
+                                    batch = []
+                                    for item in data["characters"]:
+                                        kanji = item["literal"]
+                                        reading = ""
+                                        if "readingMeaning" in item and "groups" in item["readingMeaning"]:
+                                            readings = item["readingMeaning"]["groups"][0].get("readings", [])
+                                            reading = ",".join([r["value"] for r in readings if r["type"] in ["ja_on", "ja_kun"]])
+                                        details = json.dumps(item, ensure_ascii=False)
+                                        batch.append((kanji, reading, details, dict_name, source_id))
+                                        if len(preview_data) < 5:
+                                            preview_data.append({"type":"kanji", "word":kanji, "def": str(item.get("readingMeaning", ""))[:50]})
+                                        if len(batch) >= 1000:
+                                            cursor.executemany("INSERT INTO dictionary_kanji (kanji, reading, details, dict_name, source_id) VALUES (?,?,?,?,?)", batch)
+                                            total_entries += len(batch)
+                                            update_callback(total_entries)
+                                            batch = []
+                                    if batch:
+                                        cursor.executemany("INSERT INTO dictionary_kanji (kanji, reading, details, dict_name, source_id) VALUES (?,?,?,?,?)", batch)
+                                        total_entries += len(batch)
+                                        update_callback(total_entries)
+                    except Exception as e:
+                        print(f"Failed to parse raw JSON {f_name}: {e}")
 
         if should_close:
             conn.commit()

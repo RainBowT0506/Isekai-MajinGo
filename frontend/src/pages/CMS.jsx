@@ -64,7 +64,7 @@ function CMS() {
       ? (globalState?.total_expected_dictionaries || 255) 
       : importStatus.length,
     success: importStatus.filter(d => d.status === 'success' && d.count > 0).length,
-    issues: importStatus.filter(d => d.status === 'failed' || (d.status === 'success' && d.count === 0)).length,
+    issues: importStatus.filter(d => d.status === 'failed' || d.status === 'container' || (d.status === 'success' && d.count === 0)).length,
     processing: importStatus.filter(d => ['deciphering', 'binding', 'queued'].includes(d.status)).length,
     totalEntries: importStatus.reduce((acc, curr) => acc + (curr.count || 0), 0)
   };
@@ -74,13 +74,14 @@ function CMS() {
     : (stats.issues + stats.processing);
 
   const filteredData = importStatus.filter(d => {
-    if (d.status === 'container') return false; // 完全隱藏打包用的外層資料夾
+    // 移除之前的 container 阻擋邏輯，讓容器可以顯示在 Pending 標籤下
+    // if (d.status === 'container') return false; 
     
     if (activeTab === 'success') {
       return d.status === 'success' && d.count > 0;
     } else {
-      // 顯示失敗、空值或處理中的辭典
-      return d.status === 'failed' || d.count === 0 || ['deciphering', 'binding', 'queued'].includes(d.status);
+      // 顯示失敗、空值、處理中或容器類型的項目
+      return d.status === 'failed' || d.count === 0 || ['deciphering', 'binding', 'queued', 'container'].includes(d.status);
     }
   });
 
@@ -181,17 +182,17 @@ function CMS() {
               </thead>
               <tbody>
                 {filteredData.map((dict, i) => (
-                  <tr key={i} className={dict.status}>
+                  <tr key={i} className={`dict-row-${dict.status}`}>
                     <td>
                       <div className="dict-path">{dict.source_id}</div>
                       <div className="dict-name">{dict.name}</div>
                       <div className="status-row">
-                        <span className={`status-badge ${dict.status}`}>
-                          {dict.status === 'success' ? '✅ 已收藏' :
-                            dict.status === 'deciphering' ? '📖 解讀中...' :
-                              dict.status === 'binding' ? '💉 綁定中...' :
-                                dict.status === 'failed' ? '⚠️ 毀損' : '💤 密封中'}
-                        </span>
+                        {dict.status === 'success' && <span className="status-badge success">已收藏</span>}
+                        {dict.status === 'failed' && <span className="status-badge failed">異常</span>}
+                        {dict.status === 'queued' && <span className="status-badge pending">排隊中</span>}
+                        {dict.status === 'deciphering' && <span className="status-badge pending">解碼中</span>}
+                        {dict.status === 'binding' && <span className="status-badge pending">綁定中</span>}
+                        {dict.status === 'container' && <span className="status-badge container">📦 外層容器</span>}
                         {(dict.status === 'failed' || (dict.status === 'success' && dict.count === 0)) && (
                           <button className="retry-btn" onClick={() => retryImport(dict.source_id)}>重試</button>
                         )}
